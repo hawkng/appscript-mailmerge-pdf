@@ -4,7 +4,7 @@
 #### This is a simple app script project which convert data from Google Spreadsheet and `mail-merge` with template with Google Slide and generate PDF.
 
 #### 1. This is the blank template (Google Slide)  
-![Template](https://github.com/hawkng/appscript-mailmerge-pdf/blob/main/cert-template.png)
+![Template](https://github.com/hawkng/appscript-mailmerge-pdf/blob/main/cert-template1.png)
 
 #### 2. PDF output  
 ![PDF output](https://github.com/hawkng/appscript-mailmerge-pdf/blob/main/cert-output.png)
